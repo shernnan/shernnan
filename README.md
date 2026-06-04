@@ -39,5 +39,5 @@
 
 ---
 
-  <sub>Profile README inspired by frankhaugen • System time synced to 2026</sub>
+  <sub>Epic!</sub>
 </p>
